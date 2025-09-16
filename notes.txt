@@ -1,0 +1,12 @@
+In-text:
+1. FOr end of sentence reference:
+  One author (Ajuwon, 2025)
+
+  two authors (Ajuwon and Ajuwon, 2025)
+
+  three or more (Ajuwon et al., 2025)
+
+2.For reference within sentence (in-text):
+  one author Ajuwon (2025)
+  two authors Ajuwon and Ajuwon (2025)
+  three authors Ajuwon et al. (2025)

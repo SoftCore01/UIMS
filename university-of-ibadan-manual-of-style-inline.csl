@@ -4,7 +4,7 @@
     <title>University Of Ibadan Manual of Style by Ajuwon</title>
     <title-short>UIMS</title-short>
     <id>http://www.zotero.org/styles/university-of-ibadan-manual-of-style-by-ajuwon</id>
-    <link href="https://raw.githubusercontent.com/SoftCore01/UIMS/refs/heads/main/university-of-ibadan-manual-of-style.csl" rel="self"/>
+    <link href="http://www.zotero.org/styles/university-of-ibadan-manual-of-style-by-ajuwon" rel="self"></link>
     <author>
       <name>Ajuwon Oreoluwa</name>
       <email>ajuwonos1@gmail.com</email>
@@ -12,7 +12,7 @@
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <category field="generic-base"/>
-    <updated>2025-09-16T20:51:50+00:00</updated>
+    <updated>2025-09-16T20:41:30+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -1100,10 +1100,10 @@
   </macro>
   <macro name="number">
     <choose>
-      <if variable="page">
-        <group display="right-inline" delimiter=", ">
+      <if variable="number">
+        <group delimiter=", ">
           <group delimiter=" ">
-            <text variable="page" text-case="title"/>
+            <text variable="genre" text-case="title"/>
             <choose>
               <if is-numeric="number">
                 <text term="issue" form="short" text-case="capitalize-first"/>
@@ -1734,10 +1734,10 @@
       <key macro="date-sort-date" sort="ascending"/>
       <key variable="status"/>
     </sort>
-    <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
+    <layout suffix=".">
+      <group delimiter=" ">
         <text macro="author-intext"/>
-        <text macro="date-intext"/>
+        <text macro="date-intext" prefix="(" suffix=")"/>
       </group>
     </layout>
   </citation>
