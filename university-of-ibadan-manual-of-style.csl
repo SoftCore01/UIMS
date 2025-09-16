@@ -2,12 +2,10 @@
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>University Of Ibadan Manual of Style -by Ajuwon Oreoluwa</title>
+    <title>University Of Ibadan Manual of Style by Ajuwon</title>
     <title-short>UIMS</title-short>
-    <id>http://www.zotero.org/styles/university-of-ibadan-manual-of-style</id>
-    <link rel="self" href="http://www.zotero.org/styles/university-of-ibadan-manual-of-style"/>
-    <link href="http://www.zotero.org/styles/apa-6th-edition" rel="template"/>
-    <link href="https://apastyle.apa.org/style-grammar-guidelines/references/examples" rel="documentation"/>
+    <id>http://www.zotero.org/styles/university-of-ibadan-manual-of-style-by-ajuwon</id>
+    <link href="https://raw.githubusercontent.com/SoftCore01/UIMS/refs/heads/main/university-of-ibadan-manual-of-style.csl" rel="self"></link>
     <author>
       <name>Ajuwon Oreoluwa</name>
       <email>ajuwonos1@gmail.com</email>
@@ -15,7 +13,7 @@
     <category citation-format="author-date"/>
     <category field="psychology"/>
     <category field="generic-base"/>
-    <updated>2025-09-16T12:01:21+00:00</updated>
+    <updated>2025-09-16T20:27:16+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -403,7 +401,7 @@
       </else-if>
       <else>
         <names variable="composer" delimiter=", ">
-          <name and="symbol" et-al-min="0" initialize-with=". " name-as-sort-order="all"/>
+          <name form="short" and="text" initialize-with=". "/>
           <substitute>
             <names variable="author"/>
             <names variable="illustrator"/>
@@ -523,7 +521,7 @@
                   </choose>
                 </if>
                 <else>
-                  <date form="text" variable="issued">
+                  <date variable="issued">
                     <date-part name="year"/>
                   </date>
                 </else>
@@ -1737,16 +1735,11 @@
       <key macro="date-sort-date" sort="ascending"/>
       <key variable="status"/>
     </sort>
-    <layout suffix=".">
-      <group delimiter=". ">
+    <layout prefix="(" suffix=")" delimiter="; ">
+      <group delimiter=", ">
         <text macro="author-intext"/>
         <text macro="date-intext"/>
-        <text macro="citation-locator"/>
-        <text macro="title"/>
-        <text variable="container-title" font-style="italic"/>
-        <text macro="volume-booklike"/>
-        <text variable="edition"/>
-        <text variable="version"/>
+        <text variable="page" form="short" prefix="p."/>
       </group>
     </layout>
   </citation>
