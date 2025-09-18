@@ -1,18 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded" default-locale="en-GB">
   <info>
-    <title>University Of Ibadan Manual of Style by Ajuwon</title>
+    <title>University of Ibadan Manual of Style by Ajuwpn</title>
     <title-short>UIMS</title-short>
-    <id>http://www.zotero.org/styles/university-of-ibadan-manual-of-style-by-ajuwon</id>
-    <link href="https://raw.githubusercontent.com/SoftCore01/UIMS/refs/heads/main/university-of-ibadan-manual-of-style.csl" rel="self"/>
-    <author>
+    <id>http://www.zotero.org/styles/university-of-ibadan-manual-of-style-by-ajuwpn</id>
+    <link href="http://www.zotero.org/styles/university-of-ibadan-manual-of-style-by-ajuwpn" rel="self"/>
+    <contributor>
       <name>Ajuwon Oreoluwa</name>
       <email>ajuwonos1@gmail.com</email>
-    </author>
-    <category citation-format="author-date"/>
-    <category field="psychology"/>
-    <category field="generic-base"/>
-    <updated>2025-09-16T21:46:36+00:00</updated>
+    </contributor>
+    <category field="social_science"/>
+    <eissn>1464-3618</eissn>
+    <updated>2025-09-18T11:45:11+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -41,283 +40,9 @@
       </term>
     </terms>
   </locale>
-  <locale xml:lang="af">
-    <terms>
-      <term name="letter">persoonlike kommunikasie</term>
-      <term name="letter" form="short">brief</term>
-    </terms>
-  </locale>
-  <locale xml:lang="ar">
-    <terms>
-      <term name="letter">اتصال شخصي</term>
-      <term name="letter" form="short">خطاب</term>
-    </terms>
-  </locale>
-  <locale xml:lang="bg">
-    <terms>
-      <term name="letter">лична комуникация</term>
-      <term name="letter" form="short">писмо</term>
-    </terms>
-  </locale>
-  <locale xml:lang="ca">
-    <terms>
-      <term name="letter">comunicació personal</term>
-      <term name="letter" form="short">carta</term>
-    </terms>
-  </locale>
-  <locale xml:lang="cs">
-    <terms>
-      <term name="letter">osobní komunikace</term>
-      <term name="letter" form="short">dopis</term>
-    </terms>
-  </locale>
-  <locale xml:lang="cy">
-    <terms>
-      <term name="letter">cyfathrebu personol</term>
-      <term name="letter" form="short">llythyr</term>
-    </terms>
-  </locale>
-  <locale xml:lang="da">
-    <terms>
-      <term name="et-al">et al.</term>
-      <term name="letter">personlig kommunikation</term>
-      <term name="letter" form="short">brev</term>
-    </terms>
-  </locale>
-  <locale xml:lang="de">
-    <terms>
-      <term name="et-al">et al.</term>
-      <term name="letter">persönliche Kommunikation</term>
-      <term name="letter" form="short">Brief</term>
-    </terms>
-  </locale>
-  <locale xml:lang="el">
-    <terms>
-      <term name="letter">προσωπική επικοινωνία</term>
-      <term name="letter" form="short">επιστολή</term>
-    </terms>
-  </locale>
-  <locale xml:lang="es">
-    <terms>
-      <term name="from">de</term>
-      <term name="letter">comunicación personal</term>
-      <term name="letter" form="short">carta</term>
-    </terms>
-  </locale>
-  <locale xml:lang="et">
-    <terms>
-      <term name="letter">isiklik suhtlus</term>
-      <term name="letter" form="short">kiri</term>
-    </terms>
-  </locale>
-  <locale xml:lang="eu">
-    <terms>
-      <term name="letter">komunikazio pertsonala</term>
-      <term name="letter" form="short">gutuna</term>
-    </terms>
-  </locale>
-  <locale xml:lang="fa">
-    <terms>
-      <term name="letter">ارتباط شخصی</term>
-      <term name="letter" form="short">نامه</term>
-    </terms>
-  </locale>
-  <locale xml:lang="fi">
-    <terms>
-      <term name="letter">henkilökohtainen viestintä</term>
-      <term name="letter" form="short">kirje</term>
-    </terms>
-  </locale>
-  <locale xml:lang="fr">
-    <terms>
-      <term name="letter">communication personnelle</term>
-      <term name="letter" form="short">lettre</term>
-      <term name="editor" form="short">
-        <single>éd.</single>
-        <multiple>éds.</multiple>
-      </term>
-    </terms>
-  </locale>
-  <locale xml:lang="he">
-    <terms>
-      <term name="letter">תקשורת אישית</term>
-      <term name="letter" form="short">מכתב</term>
-    </terms>
-  </locale>
-  <locale xml:lang="hr">
-    <terms>
-      <term name="letter">osobna komunikacija</term>
-      <term name="letter" form="short">pismo</term>
-    </terms>
-  </locale>
-  <locale xml:lang="hu">
-    <terms>
-      <term name="letter">személyes kommunikáció</term>
-      <term name="letter" form="short">levél</term>
-    </terms>
-  </locale>
-  <locale xml:lang="id">
-    <terms>
-      <term name="letter">komunikasi pribadi</term>
-      <term name="letter" form="short">surat</term>
-    </terms>
-  </locale>
-  <locale xml:lang="is">
-    <terms>
-      <term name="letter">persónuleg samskipti</term>
-      <term name="letter" form="short">bréf</term>
-    </terms>
-  </locale>
-  <locale xml:lang="it">
-    <terms>
-      <term name="letter">comunicazione personale</term>
-      <term name="letter" form="short">lettera</term>
-    </terms>
-  </locale>
-  <locale xml:lang="ja">
-    <terms>
-      <term name="letter">個人的なやり取り</term>
-      <term name="letter" form="short">手紙</term>
-    </terms>
-  </locale>
-  <locale xml:lang="ko">
-    <terms>
-      <term name="letter">개인 서신</term>
-      <term name="letter" form="short">편지</term>
-    </terms>
-  </locale>
-  <locale xml:lang="la">
-    <terms>
-      <term name="letter"/>
-      <term name="letter" form="short">epistula</term>
-    </terms>
-  </locale>
-  <locale xml:lang="lt">
-    <terms>
-      <term name="letter">communicationis personalis</term>
-      <term name="letter" form="short"/>
-    </terms>
-  </locale>
-  <locale xml:lang="lv">
-    <terms>
-      <term name="letter">personīga komunikācija</term>
-      <term name="letter" form="short">vēstule</term>
-    </terms>
-  </locale>
-  <locale xml:lang="mn">
-    <terms>
-      <term name="letter">хувийн харилцаа холбоо</term>
-      <term name="letter" form="short">захиа</term>
-    </terms>
-  </locale>
-  <locale xml:lang="nb">
-    <terms>
-      <term name="et-al">et al.</term>
-      <term name="letter">personlig kommunikasjon</term>
-      <term name="letter" form="short">brev</term>
-    </terms>
-  </locale>
-  <locale xml:lang="nl">
-    <terms>
-      <term name="et-al">et al.</term>
-      <term name="letter">persoonlijke communicatie</term>
-      <term name="letter" form="short">brief</term>
-    </terms>
-  </locale>
-  <locale xml:lang="nn">
-    <terms>
-      <term name="et-al">et al.</term>
-      <term name="letter">personlig kommunikasjon</term>
-      <term name="letter" form="short">brev</term>
-    </terms>
-  </locale>
-  <locale xml:lang="pl">
-    <terms>
-      <term name="letter">osobista komunikacja</term>
-      <term name="letter" form="short">list</term>
-    </terms>
-  </locale>
-  <locale xml:lang="pt">
-    <terms>
-      <term name="letter">comunicação pessoal</term>
-      <term name="letter" form="short">carta</term>
-    </terms>
-  </locale>
-  <locale xml:lang="ro">
-    <terms>
-      <term name="letter">comunicare personală</term>
-      <term name="letter" form="short">scrisoare</term>
-    </terms>
-  </locale>
-  <locale xml:lang="ru">
-    <terms>
-      <term name="letter">личная переписка</term>
-      <term name="letter" form="short">письмо</term>
-    </terms>
-  </locale>
-  <locale xml:lang="sk">
-    <terms>
-      <term name="letter">osobná komunikácia</term>
-      <term name="letter" form="short">list</term>
-    </terms>
-  </locale>
-  <locale xml:lang="sl">
-    <terms>
-      <term name="letter">osebna komunikacija</term>
-      <term name="letter" form="short">pismo</term>
-    </terms>
-  </locale>
-  <locale xml:lang="sr">
-    <terms>
-      <term name="letter">лична комуникација</term>
-      <term name="letter" form="short">писмо</term>
-    </terms>
-  </locale>
-  <locale xml:lang="sv">
-    <terms>
-      <term name="letter">personlig kommunikation</term>
-      <term name="letter" form="short">brev</term>
-    </terms>
-  </locale>
-  <locale xml:lang="th">
-    <terms>
-      <term name="letter">การสื่อสารส่วนบุคคล</term>
-      <term name="letter" form="short">จดหมาย</term>
-    </terms>
-  </locale>
-  <locale xml:lang="tr">
-    <terms>
-      <term name="letter">kişisel iletişim</term>
-      <term name="letter" form="short">mektup</term>
-    </terms>
-  </locale>
-  <locale xml:lang="uk">
-    <terms>
-      <term name="letter">особисте спілкування</term>
-      <term name="letter" form="short">лист</term>
-    </terms>
-  </locale>
-  <locale xml:lang="vi">
-    <terms>
-      <term name="letter">giao tiếp cá nhân</term>
-      <term name="letter" form="short">thư</term>
-    </terms>
-  </locale>
-  <locale xml:lang="zh-CN">
-    <terms>
-      <term name="letter">的私人交流</term>
-      <term name="letter" form="short">信函</term>
-    </terms>
-  </locale>
-  <locale xml:lang="zh-TW">
-    <terms>
-      <term name="letter">私人通訊</term>
-      <term name="letter" form="short">信函</term>
-    </terms>
-  </locale>
   <macro name="author-bib">
     <names variable="composer" delimiter=", ">
-      <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
+      <name and="text" delimiter-precedes-last="always" initialize-with=". " name-as-sort-order="all"/>
       <substitute>
         <names variable="author"/>
         <names variable="illustrator"/>
@@ -346,7 +71,7 @@
         </choose>
         <names variable="editor" delimiter=", ">
           <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
-          <label form="short" prefix=" (" suffix=")" text-case="title"/>
+          <label form="short" text-case="lowercase" strip-periods="false" prefix=" (" suffix=")"/>
         </names>
         <names variable="editorial-director">
           <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
@@ -375,7 +100,7 @@
       <if type="bill legal_case legislation treaty" match="any">
         <text macro="title-intext"/>
       </if>
-      <else-if type="interview personal_communication" match="any">
+      <else-if type="interview personal_communication">
         <choose>
           <if variable="archive container-title DOI publisher URL" match="none">
             <group delimiter=", ">
@@ -400,7 +125,7 @@
       </else-if>
       <else>
         <names variable="composer" delimiter=", ">
-          <name form="short" and="text" et-al-min="3" initialize-with=". " name-as-sort-order="first"/>
+          <name form="short" and="text" initialize-with=". "/>
           <substitute>
             <names variable="author"/>
             <names variable="illustrator"/>
@@ -423,7 +148,7 @@
     </choose>
   </macro>
   <macro name="date-bib">
-    <group delimiter=" " prefix="(" suffix=")">
+    <group delimiter=" ">
       <choose>
         <if is-uncertain-date="issued">
           <text term="circa" form="short"/>
@@ -462,8 +187,10 @@
             </group>
           </else-if>
           <else>
-            <text term="no date" form="short"/>
-            <text variable="year-suffix" prefix="-"/>
+            <group>
+              <text term="no date" form="short"/>
+              <text variable="year-suffix" prefix="-"/>
+            </group>
           </else>
         </choose>
       </group>
@@ -507,7 +234,7 @@
             </choose>
             <group>
               <choose>
-                <if type="interview personal_communication" match="any">
+                <if type="interview personal_communication">
                   <choose>
                     <if variable="archive container-title DOI publisher URL" match="none">
                       <date variable="issued" form="text"/>
@@ -567,7 +294,7 @@
       </else-if>
       <else>
         <choose>
-          <if type="article-journal article-magazine article-newspaper post-weblog review review-book" match="any">
+          <if type="article-journal article-magazine article-newspaper post-weblog review review-book">
             <text variable="title" font-style="italic"/>
           </if>
           <else-if type="paper-conference">
@@ -653,7 +380,7 @@
     </choose>
   </macro>
   <macro name="parenthetical">
-    <group prefix="(" suffix=")">
+    <group prefix=", ">
       <choose>
         <if type="patent">
           <group delimiter=" ">
@@ -672,7 +399,7 @@
             </group>
           </group>
         </if>
-        <else-if type="post webpage" match="any">
+        <else-if type="post webpage">
           <group delimiter="; ">
             <text macro="secondary-contributors"/>
             <text macro="database-location"/>
@@ -1100,10 +827,10 @@
   </macro>
   <macro name="number">
     <choose>
-      <if variable="page">
-        <group display="right-inline" delimiter=", ">
+      <if variable="number">
+        <group delimiter=", ">
           <group delimiter=" ">
-            <text variable="page" text-case="title"/>
+            <text variable="genre" text-case="title"/>
             <choose>
               <if is-numeric="number">
                 <text term="issue" form="short" text-case="capitalize-first"/>
@@ -1136,7 +863,6 @@
             <group delimiter=", ">
               <text macro="version"/>
               <text macro="edition"/>
-              <text macro="volume-booklike"/>
             </group>
           </if>
         </choose>
@@ -1209,10 +935,6 @@
       <group delimiter=" ">
         <label variable="issue" text-case="capitalize-first"/>
         <text variable="issue"/>
-      </group>
-      <group delimiter=" ">
-        <label variable="page" form="short" suffix=" "/>
-        <text variable="page"/>
       </group>
     </group>
   </macro>
@@ -1320,13 +1042,13 @@
   </macro>
   <macro name="container-periodical">
     <group delimiter=". ">
-      <group delimiter=", ">
-        <text variable="container-title" font-style="italic" text-case="title"/>
+      <group>
+        <text variable="container-title" text-case="title" font-style="italic" suffix=" "/>
         <choose>
           <if variable="volume">
-            <group>
+            <group delimiter=".">
               <text variable="volume" font-style="italic"/>
-              <text variable="issue" prefix="(" suffix=")"/>
+              <text variable="issue"/>
             </group>
           </if>
           <else>
@@ -1334,14 +1056,11 @@
           </else>
         </choose>
         <choose>
-          <if variable="number">
-            <group delimiter=" ">
-              <text term="article-locator" text-case="capitalize-first"/>
-              <text variable="number"/>
-            </group>
+          <if variable="page">
+            <text variable="page" prefix=": "/>
           </if>
           <else>
-            <text variable="page"/>
+            <text variable="number" prefix="Article "/>
           </else>
         </choose>
       </group>
@@ -1363,8 +1082,8 @@
           <text term="in" text-case="capitalize-first"/>
           <group delimiter=", ">
             <names variable="editor translator" delimiter=", &amp; ">
-              <name and="symbol" initialize-with=". " delimiter=", "/>
-              <label form="short" text-case="title" prefix=" (" suffix=")"/>
+              <name and="text" initialize-with=". " name-as-sort-order="all"/>
+              <label form="short" text-case="lowercase" strip-periods="true" prefix=" (" suffix=")"/>
               <substitute>
                 <names variable="editorial-director"/>
                 <names variable="collection-editor"/>
@@ -1390,7 +1109,7 @@
     </choose>
   </macro>
   <macro name="publisher">
-    <group delimiter="; ">
+    <group delimiter=" ">
       <choose>
         <if type="thesis">
           <choose>
@@ -1399,7 +1118,7 @@
             </if>
           </choose>
         </if>
-        <else-if type="post webpage" match="any">
+        <else-if type="post webpage">
           <group delimiter="; ">
             <text variable="container-title" text-case="title"/>
             <text variable="publisher"/>
@@ -1413,7 +1132,9 @@
           </choose>
         </else-if>
         <else-if type="article-journal article-magazine article-newspaper post-weblog" match="none">
+          <text variable="publisher-place" strip-periods="false" suffix=":"/>
           <text variable="publisher"/>
+          <text variable="page" prefix=", "/>
         </else-if>
       </choose>
       <group delimiter=", ">
@@ -1429,48 +1150,23 @@
   </macro>
   <macro name="access">
     <choose>
-      <if variable="DOI" match="any">
-        <text variable="DOI" prefix="https://doi.org/"/>
-      </if>
-      <else-if variable="URL">
-        <group delimiter=" ">
-          <choose>
-            <if variable="issued status" match="none">
-              <group delimiter=" ">
-                <text term="retrieved" text-case="capitalize-first"/>
-                <date variable="accessed" form="text" suffix=","/>
-                <text term="from"/>
-              </group>
-            </if>
-          </choose>
-          <text variable="URL"/>
-        </group>
-      </else-if>
+      <if match="any" variable="URL"/>
     </choose>
   </macro>
   <macro name="event">
     <choose>
-      <if variable="event event-title" match="any">
+      <if variable="event">
         <choose>
           <if variable="collection-editor editor editorial-director issue page volume" match="none">
             <group delimiter=", ">
-              <text macro="event-title"/>
+              <text variable="event"/>
               <text variable="event-place"/>
             </group>
           </if>
         </choose>
       </if>
     </choose>
-  </macro>
-  <macro name="event-title">
-    <choose>
-      <if variable="event-title">
-        <text variable="event-title"/>
-      </if>
-      <else>
-        <text variable="event"/>
-      </else>
-    </choose>
+    <text value=""/>
   </macro>
   <macro name="publication-history">
     <choose>
@@ -1501,233 +1197,17 @@
       </else>
     </choose>
   </macro>
-  <macro name="legal-cites">
-    <choose>
-      <if type="legal_case">
-        <group delimiter=". ">
-          <group delimiter=", ">
-            <text variable="title"/>
-            <group delimiter=" ">
-              <text macro="container-legal"/>
-              <text macro="date-legal"/>
-            </group>
-            <text variable="references"/>
-          </group>
-          <text macro="access"/>
-        </group>
-      </if>
-      <else-if type="bill">
-        <group delimiter=". ">
-          <group delimiter=", ">
-            <choose>
-              <if variable="number container-title" match="none">
-                <text variable="title" font-style="italic"/>
-              </if>
-              <else>
-                <text variable="title"/>
-              </else>
-            </choose>
-            <group delimiter=" ">
-              <text macro="container-legal"/>
-              <text macro="date-legal"/>
-              <choose>
-                <if variable="number container-title" match="none">
-                  <names variable="author" prefix="(testimony of " suffix=")">
-                    <name and="symbol" delimiter=", "/>
-                  </names>
-                </if>
-                <else>
-                  <text variable="status" prefix="(" suffix=")"/>
-                </else>
-              </choose>
-            </group>
-            <text variable="references"/>
-          </group>
-          <text macro="access"/>
-        </group>
-      </else-if>
-      <else-if type="legislation">
-        <group delimiter=". ">
-          <group delimiter=", ">
-            <text variable="title"/>
-            <group delimiter=" ">
-              <text macro="container-legal"/>
-              <text macro="date-legal"/>
-              <text variable="status" prefix="(" suffix=")"/>
-            </group>
-            <text variable="references"/>
-          </group>
-          <text macro="access"/>
-        </group>
-      </else-if>
-      <else-if type="treaty">
-        <group delimiter=", ">
-          <text variable="title" text-case="title"/>
-          <names variable="author">
-            <name initialize-with="." form="short" delimiter="-"/>
-          </names>
-          <text macro="date-legal"/>
-          <text macro="container-legal"/>
-          <text macro="access"/>
-        </group>
-      </else-if>
-    </choose>
-  </macro>
-  <macro name="date-legal">
-    <choose>
-      <if type="legal_case">
-        <group prefix="(" suffix=")" delimiter=" ">
-          <text variable="authority"/>
-          <choose>
-            <if variable="container-title" match="any">
-              <date variable="issued" form="numeric" date-parts="year"/>
-            </if>
-            <else>
-              <date variable="issued" form="text"/>
-            </else>
-          </choose>
-        </group>
-      </if>
-      <else-if type="bill legislation" match="any">
-        <group prefix="(" suffix=")" delimiter=" ">
-          <group delimiter=" ">
-            <date variable="original-date">
-              <date-part name="year"/>
-            </date>
-            <text term="and" form="symbol"/>
-          </group>
-          <date variable="issued">
-            <date-part name="year"/>
-          </date>
-        </group>
-      </else-if>
-      <else-if type="treaty">
-        <date variable="issued" form="text"/>
-      </else-if>
-    </choose>
-  </macro>
-  <macro name="container-legal">
-    <choose>
-      <if type="legal_case">
-        <group delimiter=" ">
-          <choose>
-            <if variable="container-title">
-              <group delimiter=" ">
-                <text variable="volume"/>
-                <text variable="container-title"/>
-                <group delimiter=" ">
-                  <text term="section" form="symbol"/>
-                  <text variable="section"/>
-                </group>
-                <choose>
-                  <if variable="page page-first" match="any">
-                    <text variable="page-first"/>
-                  </if>
-                  <else>
-                    <text value="___"/>
-                  </else>
-                </choose>
-              </group>
-            </if>
-            <else>
-              <group delimiter=" ">
-                <choose>
-                  <if is-numeric="number">
-                    <text term="issue" form="short" text-case="capitalize-first"/>
-                  </if>
-                </choose>
-                <text variable="number"/>
-              </group>
-            </else>
-          </choose>
-        </group>
-      </if>
-      <else-if type="bill">
-        <group delimiter=", ">
-          <group delimiter=" ">
-            <text variable="genre"/>
-            <group delimiter=" ">
-              <choose>
-                <if variable="chapter-number container-title" match="none">
-                  <text term="issue" form="short"/>
-                </if>
-              </choose>
-              <text variable="number"/>
-            </group>
-          </group>
-          <text variable="authority"/>
-          <text variable="chapter-number"/>
-          <group delimiter=" ">
-            <text variable="volume"/>
-            <text variable="container-title"/>
-            <text variable="page-first"/>
-          </group>
-        </group>
-      </else-if>
-      <else-if type="legislation">
-        <choose>
-          <if variable="number">
-            <group delimiter=", ">
-              <text variable="number" prefix="Pub. L. No. "/>
-              <group delimiter=" ">
-                <text variable="volume"/>
-                <text variable="container-title"/>
-                <text variable="page-first"/>
-              </group>
-            </group>
-          </if>
-          <else>
-            <group delimiter=" ">
-              <text variable="volume"/>
-              <text variable="container-title"/>
-              <choose>
-                <if variable="section">
-                  <group delimiter=" ">
-                    <text term="section" form="symbol"/>
-                    <text variable="section"/>
-                  </group>
-                </if>
-                <else>
-                  <text variable="page-first"/>
-                </else>
-              </choose>
-            </group>
-          </else>
-        </choose>
-      </else-if>
-      <else-if type="treaty">
-        <group delimiter=" ">
-          <number variable="volume"/>
-          <text variable="container-title"/>
-          <choose>
-            <if variable="page page-first" match="any">
-              <text variable="page-first"/>
-            </if>
-            <else>
-              <group delimiter=" ">
-                <text term="issue" form="short" text-case="capitalize-first"/>
-                <text variable="number"/>
-              </group>
-            </else>
-          </choose>
-        </group>
-      </else-if>
-    </choose>
-  </macro>
   <macro name="citation-locator">
     <group delimiter=" ">
       <choose>
         <if locator="chapter">
           <label variable="locator" text-case="capitalize-first"/>
         </if>
-        <else>
-          <label variable="locator" form="short"/>
-        </else>
       </choose>
-      <text variable="locator"/>
+      <text variable="locator" strip-periods="false" prefix=": "/>
     </group>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name">
     <sort>
       <key macro="author-bib" names-min="3" names-use-first="1"/>
       <key macro="date-sort-group"/>
@@ -1735,9 +1215,10 @@
       <key variable="status"/>
     </sort>
     <layout prefix="(" suffix=")" delimiter="; ">
-      <group delimiter=", ">
-        <text macro="author-intext"/>
+      <group>
+        <text macro="author-intext" suffix=", "/>
         <text macro="date-intext"/>
+        <text macro="citation-locator"/>
       </group>
     </layout>
   </citation>
@@ -1750,32 +1231,18 @@
       <key macro="title"/>
     </sort>
     <layout>
-      <choose>
-        <if type="bill legal_case legislation treaty" match="any">
-          <choose>
-            <if variable="DOI URL" match="any">
-              <text macro="legal-cites"/>
-            </if>
-            <else>
-              <text macro="legal-cites" suffix="."/>
-            </else>
-          </choose>
-        </if>
-        <else>
-          <group delimiter=" ">
-            <group delimiter=". " suffix=".">
-              <text macro="author-bib"/>
-              <text macro="date-bib"/>
-              <text macro="title-and-descriptions"/>
-              <text macro="container"/>
-              <text macro="event"/>
-              <text macro="publisher"/>
-            </group>
-            <text macro="access"/>
-            <text macro="publication-history"/>
-          </group>
-        </else>
-      </choose>
+      <group delimiter=" ">
+        <group delimiter=". " suffix=".">
+          <text macro="author-bib"/>
+          <text macro="date-bib"/>
+          <text macro="title-and-descriptions"/>
+          <text macro="container"/>
+          <text macro="event"/>
+          <text macro="publisher"/>
+        </group>
+        <text macro="access"/>
+        <text macro="publication-history"/>
+      </group>
     </layout>
   </bibliography>
 </style>
